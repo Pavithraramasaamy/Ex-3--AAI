@@ -2,6 +2,7 @@
 <H3>REGISTER NO.: 212222230106</H3>
 <H3>EX. NO:3</H3>
 <H3>DATE:04-09-2024</H3>
+
 ## Implementation of Approximate Inference in Bayesian Networks
 
 ## Aim: 
